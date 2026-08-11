@@ -156,7 +156,7 @@ window.AUDIO_DATA = [
   "id": "LET-R",
   "cat": "字母",
   "text": "R",
-  "ipa": "[ɛʁ]",
+  "ipa": "[ɛr]",
   "zh": "埃赫",
   "lesson": "",
   "url": "audio/letters/LET-R.mp3"
@@ -219,7 +219,7 @@ window.AUDIO_DATA = [
   "id": "LET-Y",
   "cat": "字母",
   "text": "Y",
-  "ipa": "[igʁɛk]",
+  "ipa": "[igrɛk]",
   "zh": "伊格莱克",
   "lesson": "",
   "url": "audio/letters/LET-Y.mp3"
@@ -237,7 +237,7 @@ window.AUDIO_DATA = [
   "id": "NUM-000",
   "cat": "数字",
   "text": "zéro",
-  "ipa": "[zeʁo]",
+  "ipa": "[zero]",
   "zh": "数字 0",
   "lesson": "",
   "url": "audio/numbers/NUM-000.mp3"
@@ -264,7 +264,7 @@ window.AUDIO_DATA = [
   "id": "NUM-003",
   "cat": "数字",
   "text": "trois",
-  "ipa": "[tʁwa]",
+  "ipa": "[trwa]",
   "zh": "数字 3",
   "lesson": "",
   "url": "audio/numbers/NUM-003.mp3"
@@ -273,7 +273,7 @@ window.AUDIO_DATA = [
   "id": "NUM-004",
   "cat": "数字",
   "text": "quatre",
-  "ipa": "[katʁ]",
+  "ipa": "[katr]",
   "zh": "数字 4",
   "lesson": "",
   "url": "audio/numbers/NUM-004.mp3"
@@ -354,7 +354,7 @@ window.AUDIO_DATA = [
   "id": "NUM-013",
   "cat": "数字",
   "text": "treize",
-  "ipa": "[tʁɛz]",
+  "ipa": "[trɛz]",
   "zh": "数字 13",
   "lesson": "",
   "url": "audio/numbers/NUM-013.mp3"
@@ -363,7 +363,7 @@ window.AUDIO_DATA = [
   "id": "NUM-014",
   "cat": "数字",
   "text": "quatorze",
-  "ipa": "[katɔʁz]",
+  "ipa": "[katɔrz]",
   "zh": "数字 14",
   "lesson": "",
   "url": "audio/numbers/NUM-014.mp3"
@@ -507,7 +507,7 @@ window.AUDIO_DATA = [
   "id": "NUM-030",
   "cat": "数字",
   "text": "trente",
-  "ipa": "[tʁɑ̃t]",
+  "ipa": "[trɑ̃t]",
   "zh": "数字 30",
   "lesson": "",
   "url": "audio/numbers/NUM-030.mp3"
@@ -597,7 +597,7 @@ window.AUDIO_DATA = [
   "id": "NUM-040",
   "cat": "数字",
   "text": "quarante",
-  "ipa": "[kaʁɑ̃t]",
+  "ipa": "[karɑ̃t]",
   "zh": "数字 40",
   "lesson": "",
   "url": "audio/numbers/NUM-040.mp3"
@@ -957,7 +957,7 @@ window.AUDIO_DATA = [
   "id": "NUM-080",
   "cat": "数字",
   "text": "quatre-vingts",
-  "ipa": "[katʁəvɛ̃]",
+  "ipa": "[katrəvɛ̃]",
   "zh": "数字 80",
   "lesson": "",
   "url": "audio/numbers/NUM-080.mp3"
@@ -1047,7 +1047,7 @@ window.AUDIO_DATA = [
   "id": "NUM-090",
   "cat": "数字",
   "text": "quatre-vingt-dix",
-  "ipa": "[katʁəvɛ̃dis]",
+  "ipa": "[katrəvɛ̃dis]",
   "zh": "数字 90",
   "lesson": "",
   "url": "audio/numbers/NUM-090.mp3"
