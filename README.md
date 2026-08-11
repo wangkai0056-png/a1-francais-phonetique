@@ -4,7 +4,7 @@
 
 ## 使用
 
-- 在线：`https://<用户名>.github.io/a1-francais-phonetique/`
+- 在线：<https://wangkai0056-png.github.io/a1-francais-phonetique/>
 - 离线：直接双击本目录中的 `index.html` 即可使用全部功能（无需联网，音频在本地）。
 - 搜索：顶部输入框可按法语、音标、中文或编号搜索。
 - 直达某课：网址后面加 `#S1L1` 到 `#S2L8`。
